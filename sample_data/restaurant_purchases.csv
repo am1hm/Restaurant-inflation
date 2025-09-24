@@ -1,0 +1,31 @@
+date,ingredient,category,supplier,quantity,unit,unit_price,currency
+2023-01-05,Tomato,Vegetables,Supplier A,25,kg,5.5,SAR
+2023-01-12,Tomato,Vegetables,Supplier B,30,kg,5.8,SAR
+2023-02-03,Tomato,Vegetables,Supplier A,20,kg,6.2,SAR
+2023-02-15,Tomato,Vegetables,Supplier B,35,kg,6.5,SAR
+2023-03-01,Tomato,Vegetables,Supplier A,28,kg,6.9,SAR
+2023-03-10,Tomato,Vegetables,Supplier B,40,kg,7.1,SAR
+2023-01-07,Chicken Breast,Meat,Supplier A,15,kg,22.0,SAR
+2023-01-20,Chicken Breast,Meat,Supplier C,20,kg,23.5,SAR
+2023-02-05,Chicken Breast,Meat,Supplier A,18,kg,24.0,SAR
+2023-02-22,Chicken Breast,Meat,Supplier C,25,kg,25.0,SAR
+2023-03-08,Chicken Breast,Meat,Supplier A,20,kg,26.5,SAR
+2023-03-18,Chicken Breast,Meat,Supplier C,30,kg,27.0,SAR
+2023-01-10,Cooking Oil,Oils,Supplier B,10,l,18.0,SAR
+2023-01-25,Cooking Oil,Oils,Supplier D,12,l,18.5,SAR
+2023-02-11,Cooking Oil,Oils,Supplier B,15,l,19.2,SAR
+2023-02-27,Cooking Oil,Oils,Supplier D,18,l,19.8,SAR
+2023-03-12,Cooking Oil,Oils,Supplier B,20,l,20.5,SAR
+2023-03-25,Cooking Oil,Oils,Supplier D,22,l,21.0,SAR
+2023-01-15,Soft Drinks,Beverages,Supplier E,50,pack,45.0,SAR
+2023-01-28,Soft Drinks,Beverages,Supplier E,60,pack,46.0,SAR
+2023-02-14,Soft Drinks,Beverages,Supplier E,55,pack,47.5,SAR
+2023-02-26,Soft Drinks,Beverages,Supplier F,70,pack,48.0,SAR
+2023-03-15,Soft Drinks,Beverages,Supplier E,65,pack,49.5,SAR
+2023-03-28,Soft Drinks,Beverages,Supplier F,80,pack,50.0,SAR
+2023-01-18,Packaging Boxes,Packaging,Supplier G,100,pcs,1.2,SAR
+2023-01-30,Packaging Boxes,Packaging,Supplier G,120,pcs,1.25,SAR
+2023-02-16,Packaging Boxes,Packaging,Supplier G,150,pcs,1.35,SAR
+2023-02-28,Packaging Boxes,Packaging,Supplier H,200,pcs,1.4,SAR
+2023-03-20,Packaging Boxes,Packaging,Supplier G,180,pcs,1.5,SAR
+2023-03-30,Packaging Boxes,Packaging,Supplier H,220,pcs,1.6,SAR
