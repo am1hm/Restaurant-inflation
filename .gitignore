@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+.streamlit/
+.DS_Store
+Thumbs.db
